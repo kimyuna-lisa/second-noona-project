@@ -9,3 +9,5 @@ print(a+d)
 print(b+c)
 print(b+d)
 print(c+d)
+
+print(a+b+c+d)
